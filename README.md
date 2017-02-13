@@ -1,5 +1,9 @@
 # Zork III: The Dungeon Master (for Docker)
 
+Welcome to ZORK! You are about to experience a classic interactive fantasy, set in a magical universe. The ZORK trilogy takes place in the ruins of an ancient empire lying far underground. You, a dauntless treasure-hunter, are venturing into this dangerous land in search of wealth and adventure. Because each part of the ZORK saga is a completely independent story, you can explore them in any order.
+
+As ZORK III begins, your greatest challenge beckons as you take the final step down into the very heart of the Great Underground Empire. Your character and courage will be tested as the enigmatic Dungeon Master confronts you with predicaments and perils. Your quest hinges upon discovering his secret purpose, even as he oversees your ultimate triumph - or destruction!
+
 ## I just want to play the game!
 
 Want to play Zork? Easy-peasy. Just type the following:
